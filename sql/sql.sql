@@ -1,0 +1,6 @@
+USE db_math;
+CREATE DATABASE db_math;
+DROP DATABASE db_math;
+
+SHOW TABLES;
+SELECT COUNT(*) FROM operation;
